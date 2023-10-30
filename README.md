@@ -1,4 +1,4 @@
-## Performing a Data Manipulation task on Cloud-Hosted Notebook Google Colaboratory 📊📚🌐
+## Performing a Data Manipulation task on Cloud-Hosted Notebook [Google Colaboratory] 📊📚🌐
 Steps to Connect Dataset from GitHub with Google Colab and Save to GitHub:
 
 1. Find Dataset on GitHub:<br>
@@ -7,9 +7,12 @@ Steps to Connect Dataset from GitHub with Google Colab and Save to GitHub:
 1.3. Click on the “Raw” button. This will take you to a plain text version of the file. 🌐<br>
 1.4. Copy the URL from your browser’s address bar. This is the direct link to the raw data file. 📋<br><br>
 
+
+[Your Text Here](Your Link Here)
+
 2. Open Google Colab:<br>
-2.1. Go to Google Colab. 🖥️<br>
-2.2. Click on “New Notebook”. 📓<br><br>
+2.1. Go to [Google Colab](https://colab.research.google.com/). 🖥️<br>
+2.2. Click on "File" -> “New Notebook”. 📓<br><br>
 
 3. Start Coding:<br>
 3.1. You’ll see a code cell opened. 👩‍💻<br>
