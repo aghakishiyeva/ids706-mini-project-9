@@ -17,13 +17,14 @@ Steps to Connect Dataset from GitHub with Google Colab and Save to GitHub:
 3.2. Start writing your code:<br><br>
 
 ```bash
-Copy code
 import pandas as pd
 
 # Read dataset
-data_path = "https://raw.githubusercontent.com/aghakishiyeva/ids706-mini-project-9/main/data/winequality-red.csv"
+data_path = "https://raw.githubusercontent.com/aghakishiyeva/ids706-mini-project-9/main/data/winequality-red.csv" # Replace with your link
 data = pd.read_csv(data_path)
 data.head()
+
+# Apply Your Preferred Data Manipulation Techniques to the Dataset
 
 ```
 
