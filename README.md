@@ -12,7 +12,7 @@ Steps to Connect Dataset from GitHub with Google Colab and Save to GitHub:
 
 2. Open Google Colab:<br>
 2.1. Go to [Google Colab](https://colab.research.google.com/). 🖥️<br>
-2.2. Click on "File" -> “New Notebook”. 📓<br><br>
+2.2. Click on File -> New Notebook. 📓<br><br>
 
 3. Start Coding:<br>
 3.1. You’ll see a code cell opened. 👩‍💻<br>
