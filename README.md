@@ -27,6 +27,7 @@ data.head()
 # Apply Your Preferred Data Manipulation Techniques to the Dataset
 
 ```
+<br>
 
 4. Save Notebook to GitHub:<br>
 4.1. After completing your code, click on File -> Save a copy in GitHub. 💾<br>
